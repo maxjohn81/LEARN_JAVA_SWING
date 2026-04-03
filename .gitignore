@@ -1,0 +1,43 @@
+# === Fichiers compilés ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Dossiers de build ===
+/build/
+/out/
+/dist/
+
+# === IDEs ===
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Libraries externes (si tu ne veux pas les versionner) ===
+/lib/
+
+# === Autres fichiers temporaires ===
+*.tmp
+*.swp
