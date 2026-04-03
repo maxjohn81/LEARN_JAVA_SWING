@@ -4,7 +4,7 @@
  */
 package javaswing;
 
-import javaswing.gui.MainFrame;
+import javaswing.gui.LoginFrame;
 
 /**
  *
@@ -17,7 +17,7 @@ public class JavaSwing {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        new MainFrame();
+        new LoginFrame();
     }
 
 }
